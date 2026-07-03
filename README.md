@@ -1,2 +1,3 @@
-# Project-Genesis
-Building a calm, human-centered personal assistant.
+# Project Genesis
+
+Placeholder project description.
