@@ -13,4 +13,19 @@ These rules define how Project Genesis is developed. They exist to ensure consis
 9. Quality is more important than speed.
 10. Challenge assumptions with evidence.
 
+## Development Workflow
+
+Project Genesis follows four phases:
+
+1. Identify one high-value consumer problem.
+2. Validate the market.
+3. Perfect the solution.
+4. Build.
+
+No implementation should begin before the first three phases are complete.
+
+## Decision Logs
+
+Daily Decision Logs are the official record of approved decisions. Future implementation must be based only on validated decisions recorded in the repository.
+
 These rules may evolve, but only after careful discussion and evidence.

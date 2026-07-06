@@ -12,11 +12,11 @@ Project Genesis focuses on reducing everyday friction and creating calm technolo
 
 ## Current Status
 
-The project is currently in the research and product design phase.
+The project is currently in the research phase. No implementation should begin until Project Genesis has identified one high-value consumer problem, validated the market, and refined the solution.
 
 ## Repository Structure
 
-`docs/` contains foundational documentation for vision, research, decisions, roadmap, product, and design work. `assets/` is reserved for project assets, `prompts/` is reserved for prompt materials, and `.github/` is reserved for repository-related GitHub files.
+`docs/` is the single source of truth and contains the project's vision, research, decisions, roadmap, product, and design documentation. `assets/` is reserved for project assets, `prompts/` is reserved for prompt materials, and `.github/` is reserved for repository-related GitHub files.
 
 ## Principles
 
