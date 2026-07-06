@@ -16,7 +16,13 @@ The project is currently in the research phase. No implementation should begin u
 
 ## Repository Structure
 
-`docs/` is the single source of truth and contains the project's vision, research, decisions, roadmap, product, and design documentation. `assets/` is reserved for project assets, `prompts/` is reserved for prompt materials, and `.github/` is reserved for repository-related GitHub files.
+`docs/` is the single source of truth and contains the project's vision, research, decisions, roadmap, product, and design documentation.
+
+`assets/` is reserved for project assets.
+
+`prompts/` is reserved for prompt materials.
+
+`.github/` is reserved for repository-related GitHub files.
 
 ## Principles
 
